@@ -15,8 +15,6 @@ How the CloneRepo_CreateNewBranch.sh works?
 
 This will first create a folder with the name in the format of `Project_NewBranchName`,
 
-then Clone the Remote repository with default branch name as `development` (you can replace this to your desired default branch name in the script) 
-
-to your local machine in the newly created folder, 
+then Clone the Remote repository with default branch name as `development` (you can replace this to your desired default branch name in the script) to your local machine in the newly created folder, 
 
 then it will navigate to the cloned repository and then checkout the current repository to the new branch name and lastly it will push the newly created branch to the remote repository.
