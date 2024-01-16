@@ -12,6 +12,7 @@ cmd: ./CloneRepo_CreateNewBranch.sh <repositoryURL> <newBranchName>
 Ex: ./CloneRepo_CreateNewBranch.sh https://github.com/ManthanDhole/AutomationScripts.git NewName_ofYourChoice
 
 How the CloneRepo_CreateNewBranch.sh works?
+
 This will first create a folder with the name in the format of `Project_NewBranchName`,
 
 then Clone the Remote repository with default branch name as `development` (you can replace this to your desired default branch name in the script) 
