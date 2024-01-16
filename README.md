@@ -2,6 +2,7 @@
 
 1. Clone Repository and Create a New Branch: CloneRepo_CreateNewBranch.sh
 This script needs to execute with 2 parameters
+
 a. The URL of the Repository/Project
 b. The New Branch Name that you want to create in the Remote Repository
 
